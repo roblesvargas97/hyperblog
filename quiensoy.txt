@@ -2,6 +2,4 @@ Hola mi nombre es uriel
 
 Mi primer apellido es Robles
 
-tengo 23 años
-
-me gusta programar
+Le gustaba mucho el futbol 
