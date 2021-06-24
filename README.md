@@ -11,5 +11,5 @@ En este curso vemos comandos de Git:
 - Trucos muy locos del profesor.
 - Las multiples personalidades.
 - Creado por mi xD
-
+- Inclye ejemplos
 y como un amable recordatorio **Todo esto es un chiste** diseñado para el ejemplo si llegas aqui mejor no te lo tomes en serio y ve al curso.
