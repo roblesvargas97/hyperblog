@@ -10,5 +10,6 @@ En este curso vemos comandos de Git:
 - El verdadero amor pro las buenas practicas.
 - Trucos muy locos del profesor.
 - Las multiples personalidades.
+- Creado por mi xD
 
 y como un amable recordatorio **Todo esto es un chiste** diseñado para el ejemplo si llegas aqui mejor no te lo tomes en serio y ve al curso.
